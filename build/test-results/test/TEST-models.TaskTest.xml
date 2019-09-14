@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="models.TaskTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-09-13T13:18:29" hostname="wecode-HP-280-G2-MT-Non-Legacy" time="0.031">
+<testsuite name="models.TaskTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-14T11:39:57" hostname="wecode-HP-280-G2-MT-Non-Legacy" time="0.02">
   <properties/>
-  <testcase name="TaskInstantiatesWithDescription_true" classname="models.TaskTest" time="0.024"/>
-  <testcase name="tasksInstantiateWithId" classname="models.TaskTest" time="0.0"/>
-  <testcase name="updateChangesTaskContent" classname="models.TaskTest" time="0.0"/>
-  <testcase name="isCompletedPropertyIsFalseAfterInstantiation" classname="models.TaskTest" time="0.001"/>
+  <testcase name="TaskInstantiatesWithDescription_true" classname="models.TaskTest" time="0.019"/>
+  <testcase name="isCompletedPropertyIsFalseAfterInstantiation" classname="models.TaskTest" time="0.0"/>
   <testcase name="NewTaskObjectGetsCorrectlyCreated_true" classname="models.TaskTest" time="0.0"/>
-  <testcase name="AllTasksAreCorrectlyReturned_true" classname="models.TaskTest" time="0.0"/>
-  <testcase name="findReturnsCorrectTask" classname="models.TaskTest" time="0.0"/>
-  <testcase name="deleteAllTasksDeletesAllTasks" classname="models.TaskTest" time="0.0"/>
   <testcase name="getCreatedAtInstantiatesWithCurrentTimeToday" classname="models.TaskTest" time="0.001"/>
-  <testcase name="deleteDeletesASpecificTask" classname="models.TaskTest" time="0.0"/>
-  <testcase name="findReturnsCorrectTaskWhenMoreThanOneTaskExists" classname="models.TaskTest" time="0.0"/>
-  <testcase name="AllTasksContainsAllTasks_true" classname="models.TaskTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
